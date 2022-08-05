@@ -30,6 +30,10 @@ header {
     color: #56ab2f;
 }
 
+#recipeSelector img:hover {
+    border-radius: 15%;
+}
+
 #recipeSelector a:hover {
     color: darkgreen;
 }
