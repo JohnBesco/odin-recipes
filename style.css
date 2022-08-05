@@ -7,11 +7,19 @@ header {
     
 }
 
-
 .mainImage {
     width: 400px;
     height: 400px;
 }
 
+#recipeSelector {
+    display: flex;
+    justify-content: space-between;
+}
 
+#recipeSelector div {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+}
 
