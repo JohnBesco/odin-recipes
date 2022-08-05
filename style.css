@@ -21,5 +21,14 @@ header {
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 18px;
+    font-weight: 500;
 }
 
+#recipeSelector a {
+    text-decoration: none;
+    color: #56ab2f;
+}
+
+#recipeSelector a:hover {
+    color: darkgreen;
+}
